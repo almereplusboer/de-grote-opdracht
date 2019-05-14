@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<playlist>
+  <song>
+    <id></id>
+    <artist></artist>
+    <title></title>
+    <year></year>
+    <genre></genre>
+    <time></time>
+    <file></file>
+  </song>
+  <song>
+    <id></id>
+    <artist></artist>
+    <title></title>
+    <year></year>
+    <genre></genre>
+    <time></time>
+    <file></file>
+  </song>
+  <song>
+    <id></id>
+    <artist></artist>
+    <title></title>
+    <year></year>
+    <genre></genre>
+    <time></time>
+    <file></file>
+  </song>
+  <song>
+    <id></id>
+    <artist></artist>
+    <title></title>
+    <year></year>
+    <genre></genre>
+    <time></time>
+    <file></file>
+  </song>
+</playlist>
