@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaylistProject", "PlaylistProject\PlaylistProject.csproj", "{77FCA391-502E-49F6-A4BB-8509FA74314C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlCrud", "PlaylistProject\XmlCrud.csproj", "{77FCA391-502E-49F6-A4BB-8509FA74314C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
